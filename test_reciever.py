@@ -2,7 +2,7 @@ import socket
 import time
 
 JETSON_IP = "0.0.0.0"
-JETSON_PORT = 6002
+JETSON_PORT = 6969
 JETSON_ADDR_PORT = (JETSON_IP,JETSON_PORT )
 buffer_size = 1024
 
