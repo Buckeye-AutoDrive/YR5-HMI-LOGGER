@@ -2,7 +2,7 @@ import socket
 import time
 # from types import String
 JETSON_IP = "192.168.69.69"
-JETSON_PORT = 6002
+JETSON_PORT = 6969
 JETSON_ADDR_PORT = (JETSON_IP,JETSON_PORT )
 
 class HMI_LOGGER:
