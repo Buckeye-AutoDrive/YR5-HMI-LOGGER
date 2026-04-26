@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, "/home/autodrive/HMI/YR5-HMI-LOGGER")
 import HMI_LOGGER
 import time
 
